@@ -1,0 +1,43 @@
+body {
+  background-color: #eaf5ff;
+}
+
+h1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif; color: #a9c6de;
+}
+h3 {
+  font-family: Verdana, Arial, Helvetica, sans-serif; color: #a9c6de;
+}
+h4 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h5 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+p {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+li {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+th {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+td {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 90px;
+}
